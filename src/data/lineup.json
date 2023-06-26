@@ -1,0 +1,16 @@
+{
+    "persons": [
+        {
+            "first_name": "Gerd",
+            "image": "https://dice-media.imgix.net/attachments/2021-09-29/e57ed0dd-42a8-44a5-b02f-f611e7f71ca4.jpg?rect=0%2C171%2C659%2C659&auto=format%2Ccompress&q=80&w=50&fit=max&dpr=1"
+        },
+        {
+            "first_name": "Der",
+            "image": ""
+        },
+        {
+            "first_name": "Zero",
+            "image": ""
+        }
+    ]
+}
