@@ -63,7 +63,7 @@ const dropdownLinks = [
 ]
 
 export default function Footer() {
-    return <footer className="bg-white py-12">
+    return <footer className="bg-white py-12 mt-auto">
         <div className="flex flex-col max-w-7xl mx-auto">
             <div className="md:flex justify-between">
                 <div className="">
